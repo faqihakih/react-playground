@@ -1,0 +1,9 @@
+.tampil{
+    display: block;
+}
+.follow{
+    display: inline-block;
+}
+.following{
+    margin-left: 10px;
+}
